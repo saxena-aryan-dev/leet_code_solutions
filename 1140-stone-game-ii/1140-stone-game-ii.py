@@ -1,6 +1,3 @@
-class Solution:
-    def stoneGameII(self, piles: List[int]) -> int:
-        from functools import lru_cache
 
 class Solution:
     def stoneGameII(self, piles: List[int]) -> int:
