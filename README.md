@@ -26,6 +26,7 @@ Maintained by [code2946](https://github.com/code2946).
 | [0486-predict-the-winner](https://github.com/code2946/leet_code_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/code2946/leet_code_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/code2946/leet_code_solutions/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/code2946/leet_code_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/code2946/leet_code_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1406-stone-game-iii](https://github.com/code2946/leet_code_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -87,6 +88,7 @@ Maintained by [code2946](https://github.com/code2946).
 | [0628-maximum-product-of-three-numbers](https://github.com/code2946/leet_code_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/code2946/leet_code_solutions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/code2946/leet_code_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1140-stone-game-ii](https://github.com/code2946/leet_code_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/code2946/leet_code_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code2946/leet_code_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code2946/leet_code_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -113,6 +115,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/code2946/leet_code_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/code2946/leet_code_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/code2946/leet_code_solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Binary Search
@@ -126,6 +129,7 @@ Maintained by [code2946](https://github.com/code2946).
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/code2946/leet_code_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/code2946/leet_code_solutions/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/code2946/leet_code_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/code2946/leet_code_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code2946/leet_code_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/code2946/leet_code_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -214,14 +218,17 @@ Maintained by [code2946](https://github.com/code2946).
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/code2946/leet_code_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/code2946/leet_code_solutions/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/code2946/leet_code_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/code2946/leet_code_solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/code2946/leet_code_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/code2946/leet_code_solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/code2946/leet_code_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/code2946/leet_code_solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
