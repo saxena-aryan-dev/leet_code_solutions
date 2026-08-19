@@ -21,6 +21,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/code2946/leet_code_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/code2946/leet_code_solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -47,6 +48,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/code2946/leet_code_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryan-saxena-dev/leet_code_solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -89,6 +91,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/code2946/leet_code_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/code2946/leet_code_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/code2946/leet_code_solutions/tree/main/0877-stone-game/) | Medium |
@@ -126,6 +129,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0268-missing-number/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/code2946/leet_code_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/code2946/leet_code_solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -151,6 +155,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0268-missing-number/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/code2946/leet_code_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/code2946/leet_code_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -163,6 +168,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/code2946/leet_code_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/code2946/leet_code_solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
