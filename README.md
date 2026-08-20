@@ -81,6 +81,7 @@ Maintained by [code2946](https://github.com/code2946).
 | [1071-greatest-common-divisor-of-strings](https://github.com/code2946/leet_code_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/code2946/leet_code_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/code2946/leet_code_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code2946/leet_code_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/code2946/leet_code_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code2946/leet_code_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -100,6 +101,7 @@ Maintained by [code2946](https://github.com/code2946).
 | [1071-greatest-common-divisor-of-strings](https://github.com/code2946/leet_code_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/code2946/leet_code_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/code2946/leet_code_solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code2946/leet_code_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code2946/leet_code_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/code2946/leet_code_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -149,6 +151,7 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/code2946/leet_code_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code2946/leet_code_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/code2946/leet_code_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/code2946/leet_code_solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
