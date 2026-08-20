@@ -22,6 +22,7 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0268-missing-number](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/code2946/leet_code_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -142,6 +143,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/code2946/leet_code_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/code2946/leet_code_solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/code2946/leet_code_solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -266,4 +268,8 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryan-saxena-dev/leet_code_solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
