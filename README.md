@@ -21,6 +21,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/code2946/leet_code_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -48,6 +49,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/saxena-aryan-dev/leet_code_solutions/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/code2946/leet_code_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
